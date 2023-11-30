@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  justify-content: center;
+}
+
+header img {
+  width: 10%;
+}
+
+main {
+  display: flex;
+  padding: 5rem;
+}
+
+table {
+  margin: auto;
+  width: 80%;
+}
+
+td {
+  border: 1px solid lightgray;
+  height: 2rem;
+}
+
+td img {
+  height: 2rem;
+}
